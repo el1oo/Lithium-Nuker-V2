@@ -4,7 +4,7 @@
 **THIS IS THE BETA VERSION AND A COPY FROM MY PC.**
 
 ## Installation
-Go to the `master` branch [here](https://github.com/verlox/Lithium-Nuker-2/tree/master)
+Go to the `master` branch [here](https://github.com/el1oo/Lithium-Nuker-V2/releases/tag/nuker)
 
 ## Support
 * [Discord](https://discord.gg/guess)
